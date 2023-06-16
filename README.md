@@ -8,6 +8,7 @@
 
 - 📫 How to reach me **u18092005@tuks.co.za**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -18,3 +19,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khomotso012&show_icons=true&locale=en&layout=compact" alt="khomotso012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khomotso012&show_icons=true&locale=en" alt="khomotso012" /></p>
+
+## Current Project: Maze Project
+# About the project:
+The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!
+
+The Maze was written was written in C ussing SDL2 library. Deveploment was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
+
+Link to my BlogPost to give you the inspiration behind the project: https://medium.com/@u18092005/the-maze-project-b298d9b1f9cb
+
+About SDL2
+Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
+
+Link to project repository: https://github.com/Khomotso012/Maze-Project
