@@ -34,4 +34,4 @@ Simple DirectMedia Layer is a cross-platform development library designed to pro
 Link to project repository: https://github.com/Khomotso012/Maze-Project
 
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="https://github.com/Khomotso012/Maze-Project">Link to project repository MazeProject!</a>
